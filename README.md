@@ -26,16 +26,16 @@ This project implements a **dictionary abstract data type** in C using a **linke
 
 ## File Structure
 
-├── Makefile
-├── main.c
-├── dictionary.c
-├── dictionary.h
-├── csv.c
-├── csv.h
-├── bitstring.c
-├── bitstring.h
-├── record.h
-└── README.md
+- Makefile
+- main.c
+- dictionary.c
+- dictionary.h
+- csv.c
+- csv.h
+- bitstring.c
+- bitstring.h
+- record.h
+- README.md
 
 ## File Descriptions
 
@@ -60,7 +60,6 @@ This project implements a **dictionary abstract data type** in C using a **linke
 ## Compilation
 
 To compile the program, run:
-```sh
 make
 
 This will produce an executable called:
